@@ -19,4 +19,4 @@
 🌐 **با تند نت، اینترنتی سریع و امن رو تجربه کن ! 🫶🏻**
 
 
-http://![](https://komarev.com/ghpvc/?username=tondnet)
+![](https://komarev.com/ghpvc/?username=tondnet)
