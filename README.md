@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @tondnet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🌶️ تند نت | خرید VPN پرسرعت
 
-<!---
-tondnet/tondnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**آخرین به‌روزرسانی: 26 آبان 1402**
+
+✨ **مزایا و خدمات:**
+### [خرید فیلترشکن پرسرعت](https://tondnet.store)
+
+### **[تست یک روزه رایگان](/https://tondnet.store/buy)**
+   - امتحان کنید و با سرعت و امنیت آشنا شوید
+
+### **[دانلود برنامه OpenVPN Connect](https://tondnet.store/tools)**
+   - برای اتصال به حساب کاربری خود
+
+🤝 **خدمات مشاوره و پشتیبانی:**
+   - برای **[خرید](https://tondnet.store)** یا مشاوره رایگان، با پشتیبانی تلگرام در ارتباط باشید: [پشتیبانی تلگرام](https://t.me/tondnetadmin)
+
+🌐 **با تند نت، اینترنتی سریع و امن رو تجربه کن ! 🫶🏻**
